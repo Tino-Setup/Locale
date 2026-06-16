@@ -1,0 +1,377 @@
+# Translation file for TinoInstaller
+# Copyright (C) 2026 Motagamwala Taha Arif Ali
+# This file is distributed under the same license as the TinoInstaller package.
+# Motagamwala Taha Arif Ali <tahaar5321@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TinoInstaller 1.0\n"
+"POT-Creation-Date: 2026-06-14 16:04+0000\n"
+"PO-Revision-Date: 2026-05-29 12:15+0000\n"
+"Last-Translator: Motagamwala Taha Arif Ali <tahaar5321@gmail.com>\n"
+"Language-Team: Hindi (India)\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Engine.py:73
+msgid ""
+"You do not have permission to write to {}.\n"
+"\n"
+"Please run the installer as root or choose a different location."
+msgstr ""
+"आपको {} में लिखने की अनुमति नहीं है।\n"
+"\n"
+"कृपया इंस्टॉलर को root के रूप में चलाएँ या कोई अन्य स्थान चुनें।"
+
+#: Engine.py:139
+msgid "Removing executable symlink..."
+msgstr "एक्जीक्यूटेबल सिमलिंक हटाया जा रहा है..."
+
+#: Engine.py:145
+msgid "Removing icon symlink..."
+msgstr "आइकन सिमलिंक हटाया जा रहा है..."
+
+#: Engine.py:151
+msgid "Removing desktop file..."
+msgstr "डेस्कटॉप फ़ाइल हटाई जा रही है..."
+
+#: Engine.py:155
+msgid "Removing uninstaller desktop file..."
+msgstr "अनइंस्टॉलर डेस्कटॉप फ़ाइल हटाई जा रही है..."
+
+#: Engine.py:161
+msgid "Removing uninstaller..."
+msgstr "अनइंस्टॉलर हटाया जा रहा है..."
+
+#: Engine.py:166
+msgid "Removing uninstaller icon..."
+msgstr "अनइंस्टॉलर आइकन हटाया जा रहा है..."
+
+#: Engine.py:171
+msgid "Cleaning up extracted files..."
+msgstr "निकाली गई फ़ाइलों की सफाई की जा रही है..."
+
+#: Engine.py:175
+msgid "Removing installation directory..."
+msgstr "इंस्टॉलेशन डायरेक्टरी हटाई जा रही है..."
+
+#: Engine.py:196
+msgid "Pre-Installation script"
+msgstr "पूर्व-इंस्टॉलेशन स्क्रिप्ट"
+
+#: Engine.py:215
+msgid "Post-Installation script"
+msgstr "पश्चात-इंस्टॉलेशन स्क्रिप्ट"
+
+#: Engine.py:267
+msgid "Running {}..."
+msgstr "{} चलाया जा रहा है..."
+
+#: Engine.py:303
+msgid "Exit code {}"
+msgstr "एग्ज़िट कोड {}"
+
+#: Engine.py:306
+msgid "{} failed: {}"
+msgstr "{} विफल हुआ: {}"
+
+#: Engine.py:310
+msgid "Task Warning"
+msgstr "कार्य चेतावनी"
+
+#: Engine.py:311
+msgid ""
+"{} completed with errors:\n"
+"\n"
+"{}"
+msgstr ""
+"{} त्रुटियों के साथ पूरा हुआ:\n"
+"\n"
+"{}"
+
+#: Engine.py:329
+msgid "executable"
+msgstr "एक्जीक्यूटेबल"
+
+#: Engine.py:337
+msgid "icon"
+msgstr "आइकन"
+
+#: Engine.py:353
+msgid "Deployed desktop file..."
+msgstr "डेस्कटॉप फ़ाइल डिप्लॉय की गई..."
+
+#: Engine.py:367
+msgid "Deployed uninstaller desktop file..."
+msgstr "अनइंस्टॉलर डेस्कटॉप फ़ाइल डिप्लॉय की गई...."
+
+#: Engine.py:383
+msgid "Deployed uninstaller..."
+msgstr "अनइंस्टॉलर डिप्लॉय किया गया..."
+
+#: Engine.py:400
+msgid "Deployed uninstaller icon..."
+msgstr "अनइंस्टॉलर आइकन डिप्लॉय किया गया..."
+
+#: Engine.py:408
+msgid "Failed to create {} symlink: source file does not exist."
+msgstr "{} सिमलंक बनाने में विफल: सोर्स फ़ाइल मौजूद नहीं है।"
+
+#: Engine.py:417
+msgid "Created {} symlink..."
+msgstr "{} सिमलिंक बनाया गया..."
+
+#: Engine.py:420
+msgid "Failed to create {} symlink: {}"
+msgstr "{} सिमलिंक बनाने में विफल: {}"
+
+#: Pages.py:15
+msgid ""
+"Please read the following License Agreement carefully. By installing you "
+"agree to these terms."
+msgstr ""
+"कृपया निम्न लाइसेंस समझौते को ध्यानपूर्वक पढ़ें। इंस्टॉल करके आप इन शर्तों से सहमत होते हैं।"
+
+#: Pages.py:17
+msgid "Please read the following information carefully."
+msgstr "कृपया निम्न जानकारी को ध्यानपूर्वक पढ़ें।"
+
+#: Pages.py:47
+msgid "Welcome to the {} Setup Wizard"
+msgstr "{} सेटअप विज़ार्ड में आपका स्वागत है"
+
+#: Pages.py:50
+msgid ""
+"This wizard will guide you through the installation of\n"
+"{} version {} on your computer.\n"
+"\n"
+"Click Next to continue or Cancel to abort the installation."
+msgstr ""
+"यह विज़ार्ड आपके कंप्यूटर पर\n"
+"{} संस्करण {} की स्थापना में आपका मार्गदर्शन करेगा।\n"
+"\n"
+"जारी रखने के लिए \"अगला\" पर क्लिक करें या इंस्टॉलेशन रद्द करने के लिए \"रद्द करें\" पर "
+"क्लिक करें।"
+
+#: Pages.py:60
+msgid "License Agreement"
+msgstr "लाइसेंस समझौता"
+
+#: Pages.py:66
+msgid "I accept the terms of the license agreement"
+msgstr "मैं लाइसेंस समझौते की शर्तों को स्वीकार करता हूँ"
+
+#: Pages.py:78 Pages.py:86
+msgid "Information"
+msgstr "जानकारी"
+
+#: Pages.py:98
+msgid "Additional Tasks"
+msgstr "अतिरिक्त कार्य"
+
+#: Pages.py:99
+msgid "Select any additional tasks for {}.\n"
+msgstr "{} के लिए कोई अतिरिक्त कार्य चुनें।\n"
+
+#: Pages.py:133
+msgid "Ready to Install"
+msgstr "इंस्टॉल करने के लिए तैयार"
+
+#: Pages.py:134
+msgid ""
+"The wizard is ready to begin installing {}.\n"
+"\n"
+"Click Install to begin the installation or click Back to change any settings."
+msgstr ""
+"विज़ार्ड {} की स्थापना शुरू करने के लिए तैयार है।\n"
+"\n"
+"इंस्टॉलेशन शुरू करने के लिए \"इंस्टॉल\" पर क्लिक करें या किसी भी सेटिंग को बदलने के लिए "
+"\"वापस\" पर क्लिक करें।"
+
+#: Pages.py:164
+msgid ""
+"Installation Path:\n"
+"  {}\n"
+msgstr ""
+"इंस्टॉलेशन पथ:\n"
+"  {}\n"
+
+#: Pages.py:165
+msgid ""
+"Executable Path:\n"
+"  {}\n"
+msgstr ""
+"एक्जीक्यूटेबल पथ:\n"
+"  {}\n"
+
+#: Pages.py:168
+msgid ""
+"Icon Path:\n"
+"  {}\n"
+msgstr ""
+"आइकन पथ:\n"
+"  {}\n"
+
+#: Pages.py:171
+msgid ""
+"Desktop Path:\n"
+"  {}\n"
+msgstr ""
+"डेस्कटॉप पथ:\n"
+"  {}\n"
+
+#: Pages.py:175
+msgid ""
+"\n"
+"Additional Tasks:\n"
+"  {}"
+msgstr ""
+"\n"
+"अतिरिक्त कार्य:\n"
+"  {}"
+
+#: Pages.py:186
+msgid "Installing {}..."
+msgstr "{} इंस्टॉल किया जा रहा है..."
+
+#: Pages.py:193
+msgid "Preparing files..."
+msgstr "फ़ाइलें तैयार की जा रही हैं..."
+
+#: Pages.py:213 Wizard.py:353
+msgid "Installation Cancelled"
+msgstr "इंस्टॉलेशन रद्द किया गया"
+
+#: Pages.py:219
+msgid ""
+"Rolling back changes to restore your system.\n"
+"Please wait..."
+msgstr ""
+"आपके सिस्टम को पुनर्स्थापित करने के लिए बदलाव वापस किए जा रहे हैं।\n"
+"कृपया प्रतीक्षा करें..."
+
+#: Pages.py:234
+msgid "Removing files..."
+msgstr "फ़ाइलें हटाई जा रही हैं..."
+
+#: Wizard.py:26
+msgid "Tino Setup"
+msgstr "Tino सेटअप"
+
+#: Wizard.py:42
+msgid "Select Language"
+msgstr "भाषा चुनें"
+
+#: Wizard.py:52 Wizard.py:112
+msgid "OK"
+msgstr "ठीक है"
+
+#: Wizard.py:107
+msgid "Yes"
+msgstr "हाँ"
+
+#: Wizard.py:109
+msgid "No"
+msgstr "नहीं"
+
+#: Wizard.py:152
+msgid "{} Setup"
+msgstr "{} सेटअप"
+
+#: Wizard.py:169
+msgid "{} by {}"
+msgstr "{} द्वारा {}"
+
+#: Wizard.py:172
+msgid "Back"
+msgstr "वापस"
+
+#: Wizard.py:174 Wizard.py:299
+msgid "Next"
+msgstr "अगला"
+
+#: Wizard.py:176
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: Wizard.py:235
+msgid "Extracting: {}"
+msgstr "निकाला जा रहा है: {}"
+
+#: Wizard.py:319
+msgid "Finish"
+msgstr "समाप्त"
+
+#: Wizard.py:324
+msgid "Install"
+msgstr "इंस्टॉल करें"
+
+#: Wizard.py:355
+msgid ""
+"{} installation was cancelled.\n"
+"\n"
+"Click Finish to close the wizard."
+msgstr ""
+"{} का इंस्टॉलेशन रद्द कर दिया गया।\n"
+"\n"
+"विज़ार्ड बंद करने के लिए \"समाप्त\" पर क्लिक करें।"
+
+#: Wizard.py:358
+msgid "Installation Complete"
+msgstr "इंस्टॉलेशन पूर्ण"
+
+#: Wizard.py:360
+msgid ""
+"{} has been successfully installed.\n"
+"\n"
+"Click Finish to close the wizard."
+msgstr ""
+"{} सफलतापूर्वक इंस्टॉल हो गया है।\n"
+"\n"
+"विज़ार्ड बंद करने के लिए \"समाप्त\" पर क्लिक करें।"
+
+#: Wizard.py:414
+msgid "Archive file not found."
+msgstr "आर्काइव फाइल नहीं मिली।"
+
+#: Wizard.py:423
+msgid "Installation Error"
+msgstr "इंस्टॉलेशन त्रुटि"
+
+#: Wizard.py:424
+msgid ""
+"An error occurred during installation:\n"
+"\n"
+"{}"
+msgstr ""
+"इंस्टॉलेशन के दौरान एक त्रुटि हुई:\n"
+"\n"
+"{}"
+
+#: Wizard.py:432
+msgid "Installation complete!"
+msgstr "इंस्टॉलेशन पूर्ण!"
+
+#: Wizard.py:441
+msgid "Rolling Back"
+msgstr "वापस किया जा रहा है"
+
+#: Wizard.py:442
+msgid "Please wait while the rollback finishes."
+msgstr "कृपया प्रतीक्षा करें जब तक रोलबैक पूरा हो जाए।"
+
+#: Wizard.py:450
+msgid "Exit Setup"
+msgstr "सेटअप से बाहर निकलें"
+
+#: Wizard.py:451
+msgid ""
+"Are you sure you want to cancel the installation?\n"
+"\n"
+"Any changes made so far will be lost."
+msgstr ""
+"क्या आप वाकई इंस्टॉलेशन रद्द करना चाहते हैं?\n"
+"\n"
+"अब तक किए गए सभी परिवर्तन खो जाएंगे।"

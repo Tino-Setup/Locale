@@ -1,0 +1,217 @@
+# Translation file for TinoUninstaller
+# Copyright (C) 2026 Motagamwala Taha Arif Ali
+# This file is distributed under the same license as the TinoUninstaller package.
+# Motagamwala Taha Arif Ali <tahaar5321@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TinoUninstaller 1.0\n"
+"POT-Creation-Date: 2026-06-14 16:15+0000\n"
+"PO-Revision-Date: 2026-05-29 06:45+0000\n"
+"Last-Translator: Motagamwala Taha Arif Ali <tahaar5321@gmail.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Pages.py:17
+msgid "Welcome to the {} Uninstaller"
+msgstr "{} अनइंस्टॉलर में आपका स्वागत है"
+
+#: Pages.py:19
+msgid ""
+"This uninstaller will guide you through the removal of\n"
+"{} and its data from your computer.\n"
+"\n"
+"Click Uninstall to continue or Cancel to abort the uninstallation."
+msgstr ""
+"यह अनइंस्टॉलर आपको आपके कंप्यूटर से\n"
+"{} और उसके डेटा को हटाने की प्रक्रिया में मार्गदर्शन करेगा।\n"
+"\n"
+"जारी रखने के लिए \"अनइंस्टॉल करें\" पर क्लिक करें या प्रक्रिया रोकने के लिए \"रद्द करें\" पर "
+"क्लिक करें।"
+
+#: Pages.py:30
+msgid "Uninstalling {}..."
+msgstr "{} को अनइंस्टॉल किया जा रहा है..."
+
+#: Pages.py:37
+msgid "Preparing..."
+msgstr "तैयारी की जा रही है..."
+
+#: Wizard.py:50
+msgid "Yes"
+msgstr "हाँ"
+
+#: Wizard.py:52
+msgid "No"
+msgstr "नहीं"
+
+#: Wizard.py:55
+msgid "OK"
+msgstr "ठीक है"
+
+#: Wizard.py:94
+msgid "{} Uninstaller"
+msgstr "{} अनइंस्टॉलर"
+
+#: Wizard.py:111
+msgid "{} by {}"
+msgstr "{} द्वारा {}"
+
+#: Wizard.py:114 Wizard.py:178
+msgid "Next"
+msgstr "अगला"
+
+#: Wizard.py:116
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: Wizard.py:190
+msgid "Finish"
+msgstr "समाप्त"
+
+#: Wizard.py:192
+msgid "Uninstall"
+msgstr "अनइंस्टॉल करें"
+
+#: Wizard.py:198
+msgid "Uninstallation Failed"
+msgstr "अनइंस्टॉलेशन विफल"
+
+#: Wizard.py:200
+msgid ""
+"An error occurred during the uninstallation of {}.\n"
+"\n"
+"Some files may have already been removed.\n"
+"Click Finish to close the uninstaller."
+msgstr ""
+"{} के अनइंस्टॉलेशन के दौरान एक त्रुटि हुई।\n"
+"\n"
+"कुछ फ़ाइलें पहले ही हटाई जा चुकी हो सकती हैं।\n"
+"अनइंस्टॉलर बंद करने के लिए \"समाप्त\" पर क्लिक करें।"
+
+#: Wizard.py:205
+msgid "Uninstallation Complete"
+msgstr "अनइंस्टॉलेशन पूर्ण"
+
+#: Wizard.py:207
+msgid ""
+"{} has been successfully uninstalled.\n"
+"\n"
+"Click Finish to close the uninstaller."
+msgstr ""
+"{} को सफलतापूर्वक अनइंस्टॉल कर दिया गया है।\n"
+"\n"
+"अनइंस्टॉलर बंद करने के लिए \"समाप्त\" पर क्लिक करें।"
+
+#: Wizard.py:225
+msgid "Confirm Uninstallation"
+msgstr "अनइंस्टॉलेशन की पुष्टि करें"
+
+#: Wizard.py:226
+msgid ""
+"Are you sure you want to uninstall {}?\n"
+"\n"
+"All files and data associated with this application will be removed."
+msgstr ""
+"क्या आप वाकई {} को अनइंस्टॉल करना चाहते हैं?\n"
+"\n"
+"इस एप्लिकेशन से जुड़े सभी फ़ाइलें और डेटा हटा दिए जाएंगे।"
+
+#: Wizard.py:239
+msgid "Starting uninstallation..."
+msgstr "अनइंस्टॉलेशन शुरू किया जा रहा है..."
+
+#: Wizard.py:246
+msgid "Script file not found: {}"
+msgstr "स्क्रिप्ट फ़ाइल नहीं मिली: {}"
+
+#: Wizard.py:263
+msgid "Script returned non-zero exit code {}"
+msgstr "स्क्रिप्ट ने गैर-शून्य निकास कोड {} लौटाया"
+
+#: Wizard.py:280
+msgid "Running pre-uninstallation script..."
+msgstr "अनइंस्टॉलेशन-पूर्व स्क्रिप्ट चलाई जा रही है..."
+
+#: Wizard.py:286
+msgid "Removing executable..."
+msgstr "एक्जीक्यूटेबल हटाया जा रहा है..."
+
+#: Wizard.py:294
+msgid "Removing icon..."
+msgstr "आइकन हटाया जा रहा है..."
+
+#: Wizard.py:302
+msgid "Removing desktop shortcut..."
+msgstr "डेस्कटॉप शॉर्टकट हटाया जा रहा है..."
+
+#: Wizard.py:310
+msgid "Removing uninstaller desktop shortcut..."
+msgstr "अनइंस्टॉलर डेस्कटॉप शॉर्टकट हटा रहे हैं।"
+
+#: Wizard.py:318
+msgid "Removing uninstaller icon..."
+msgstr "अनइंस्टॉलर आइकन हटाया जा रहा है..."
+
+#: Wizard.py:326
+msgid "Removing installation directory..."
+msgstr "इंस्टॉलेशन डायरेक्टरी हटाई जा रही है..."
+
+#: Wizard.py:333
+msgid "Removing uninstaller executable..."
+msgstr "अनइंस्टॉलर एग्जीक्यूटेबल हटा रहे हैं।"
+
+#: Wizard.py:346
+msgid "Running post-uninstallation script..."
+msgstr "अनइंस्टॉलेशन-पश्चात स्क्रिप्ट चलाई जा रही है..."
+
+#: Wizard.py:365
+msgid ""
+"Script execution failed during uninstallation.\n"
+"\n"
+"The uninstallation has been aborted.\n"
+"\n"
+"Details:\n"
+"{}"
+msgstr ""
+"अनइंस्टॉलेशन के दौरान स्क्रिप्ट निष्पादन विफल रहा।\n"
+"\n"
+"अनइंस्टॉलेशन रद्द कर दिया गया है।\n"
+"\n"
+"विवरण:\n"
+"{}"
+
+#: Wizard.py:374
+msgid "Uninstallation complete!"
+msgstr "अनइंस्टॉलेशन पूर्ण!"
+
+#: Wizard.py:387
+msgid ""
+"Permission denied during uninstallation.\n"
+"\n"
+"Some files may have already been removed.\n"
+"\n"
+"Details:\n"
+"{}"
+msgstr ""
+"अनइंस्टॉलेशन के दौरान अनुमति अस्वीकृत हुई।\n"
+"\n"
+"कुछ फ़ाइलें पहले ही हटाई जा चुकी हो सकती हैं।\n"
+"\n"
+"विवरण:\n"
+"{}"
+
+#: Wizard.py:390
+msgid "Uninstallation Error"
+msgstr "अनइंस्टॉलेशन त्रुटि"
+
+#: Wizard.py:396
+msgid "Uninstallation in Progress"
+msgstr "अनइंस्टॉलेशन प्रगति पर है"
+
+#: Wizard.py:397
+msgid "The uninstallation process has started and cannot be cancelled."
+msgstr "अनइंस्टॉलेशन प्रक्रिया शुरू हो गई है और इसे रद्द नहीं किया जा सकता है।"

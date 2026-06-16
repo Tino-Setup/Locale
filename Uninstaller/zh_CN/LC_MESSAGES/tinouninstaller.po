@@ -1,0 +1,216 @@
+# Translation file for TinoUninstaller
+# Copyright (C) 2026 Motagamwala Taha Arif Ali
+# This file is distributed under the same license as the TinoUninstaller package.
+# Motagamwala Taha Arif Ali <tahaar5321@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TinoUninstaller 1.0\n"
+"POT-Creation-Date: 2026-06-14 16:15+0000\n"
+"PO-Revision-Date: 2026-05-29 06:45+0000\n"
+"Last-Translator: Motagamwala Taha Arif Ali <tahaar5321@gmail.com>\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Pages.py:17
+msgid "Welcome to the {} Uninstaller"
+msgstr "欢迎使用 {} 卸载程序"
+
+#: Pages.py:19
+msgid ""
+"This uninstaller will guide you through the removal of\n"
+"{} and its data from your computer.\n"
+"\n"
+"Click Uninstall to continue or Cancel to abort the uninstallation."
+msgstr ""
+"此卸载程序将引导您从计算机中删除\n"
+"{} 及其数据。\n"
+"\n"
+"点击“卸载”以继续，或点击“取消”以中止卸载。"
+
+#: Pages.py:30
+msgid "Uninstalling {}..."
+msgstr "正在卸载 {}..."
+
+#: Pages.py:37
+msgid "Preparing..."
+msgstr "正在准备..."
+
+#: Wizard.py:50
+msgid "Yes"
+msgstr "是"
+
+#: Wizard.py:52
+msgid "No"
+msgstr "否"
+
+#: Wizard.py:55
+msgid "OK"
+msgstr "确定"
+
+#: Wizard.py:94
+msgid "{} Uninstaller"
+msgstr "{} 卸载程序"
+
+#: Wizard.py:111
+msgid "{} by {}"
+msgstr "{} 作者：{}"
+
+#: Wizard.py:114 Wizard.py:178
+msgid "Next"
+msgstr "下一步"
+
+#: Wizard.py:116
+msgid "Cancel"
+msgstr "取消"
+
+#: Wizard.py:190
+msgid "Finish"
+msgstr "完成"
+
+#: Wizard.py:192
+msgid "Uninstall"
+msgstr "卸载"
+
+#: Wizard.py:198
+msgid "Uninstallation Failed"
+msgstr "卸载失败"
+
+#: Wizard.py:200
+msgid ""
+"An error occurred during the uninstallation of {}.\n"
+"\n"
+"Some files may have already been removed.\n"
+"Click Finish to close the uninstaller."
+msgstr ""
+"卸载 {} 时发生错误。\n"
+"\n"
+"某些文件可能已经被删除。\n"
+"点击“完成”以关闭卸载程序。"
+
+#: Wizard.py:205
+msgid "Uninstallation Complete"
+msgstr "卸载完成"
+
+#: Wizard.py:207
+msgid ""
+"{} has been successfully uninstalled.\n"
+"\n"
+"Click Finish to close the uninstaller."
+msgstr ""
+"{} 已成功卸载。\n"
+"\n"
+"点击“完成”以关闭卸载程序。"
+
+#: Wizard.py:225
+msgid "Confirm Uninstallation"
+msgstr "确认卸载"
+
+#: Wizard.py:226
+msgid ""
+"Are you sure you want to uninstall {}?\n"
+"\n"
+"All files and data associated with this application will be removed."
+msgstr ""
+"您确定要卸载 {} 吗？\n"
+"\n"
+"与此应用程序关联的所有文件和数据都将被删除。"
+
+#: Wizard.py:239
+msgid "Starting uninstallation..."
+msgstr "正在开始卸载..."
+
+#: Wizard.py:246
+msgid "Script file not found: {}"
+msgstr "找不到脚本文件：{}"
+
+#: Wizard.py:263
+msgid "Script returned non-zero exit code {}"
+msgstr "脚本返回非零退出代码 {}"
+
+#: Wizard.py:280
+msgid "Running pre-uninstallation script..."
+msgstr "正在运行卸载前脚本..."
+
+#: Wizard.py:286
+msgid "Removing executable..."
+msgstr "正在删除可执行文件..."
+
+#: Wizard.py:294
+msgid "Removing icon..."
+msgstr "正在删除图标..."
+
+#: Wizard.py:302
+msgid "Removing desktop shortcut..."
+msgstr "正在删除桌面快捷方式..."
+
+#: Wizard.py:310
+msgid "Removing uninstaller desktop shortcut..."
+msgstr "正在删除卸载程序桌面快捷方式..."
+
+#: Wizard.py:318
+msgid "Removing uninstaller icon..."
+msgstr "正在移除卸载程序图标..."
+
+#: Wizard.py:326
+msgid "Removing installation directory..."
+msgstr "正在删除安装目录..."
+
+#: Wizard.py:333
+msgid "Removing uninstaller executable..."
+msgstr "正在删除卸载程序可执行文件..."
+
+#: Wizard.py:346
+msgid "Running post-uninstallation script..."
+msgstr "正在运行卸载后脚本..."
+
+#: Wizard.py:365
+msgid ""
+"Script execution failed during uninstallation.\n"
+"\n"
+"The uninstallation has been aborted.\n"
+"\n"
+"Details:\n"
+"{}"
+msgstr ""
+"卸载过程中脚本执行失败。\n"
+"\n"
+"卸载已中止。\n"
+"\n"
+"详细信息：\n"
+"{}"
+
+#: Wizard.py:374
+msgid "Uninstallation complete!"
+msgstr "卸载完成！"
+
+#: Wizard.py:387
+msgid ""
+"Permission denied during uninstallation.\n"
+"\n"
+"Some files may have already been removed.\n"
+"\n"
+"Details:\n"
+"{}"
+msgstr ""
+"卸载过程中权限被拒绝。\n"
+"\n"
+"某些文件可能已经被删除。\n"
+"\n"
+"详细信息：\n"
+"{}"
+
+#: Wizard.py:390
+msgid "Uninstallation Error"
+msgstr "卸载错误"
+
+#: Wizard.py:396
+msgid "Uninstallation in Progress"
+msgstr "正在卸载"
+
+#: Wizard.py:397
+msgid "The uninstallation process has started and cannot be cancelled."
+msgstr "卸载过程已开始，无法取消。"

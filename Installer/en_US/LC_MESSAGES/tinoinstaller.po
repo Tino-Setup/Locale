@@ -1,0 +1,376 @@
+# Translation file for TinoInstaller
+# Copyright (C) 2026 Motagamwala Taha Arif Ali
+# This file is distributed under the same license as the TinoInstaller package.
+# Motagamwala Taha Arif Ali <tahaar5321@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TinoInstaller 1.0\n"
+"POT-Creation-Date: 2026-06-14 16:04+0000\n"
+"PO-Revision-Date: 2026-05-29 12:15+0000\n"
+"Last-Translator: Motagamwala Taha Arif Ali <tahaar5321@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Engine.py:73
+msgid ""
+"You do not have permission to write to {}.\n"
+"\n"
+"Please run the installer as root or choose a different location."
+msgstr ""
+"You do not have permission to write to {}.\n"
+"\n"
+"Please run the installer as root or choose a different location."
+
+#: Engine.py:139
+msgid "Removing executable symlink..."
+msgstr "Removing executable symlink..."
+
+#: Engine.py:145
+msgid "Removing icon symlink..."
+msgstr "Removing icon symlink..."
+
+#: Engine.py:151
+msgid "Removing desktop file..."
+msgstr "Removing desktop file..."
+
+#: Engine.py:155
+msgid "Removing uninstaller desktop file..."
+msgstr "Removing uninstaller desktop file..."
+
+#: Engine.py:161
+msgid "Removing uninstaller..."
+msgstr "Removing uninstaller..."
+
+#: Engine.py:166
+msgid "Removing uninstaller icon..."
+msgstr "Removing uninstaller icon..."
+
+#: Engine.py:171
+msgid "Cleaning up extracted files..."
+msgstr "Cleaning up extracted files..."
+
+#: Engine.py:175
+msgid "Removing installation directory..."
+msgstr "Removing installation directory..."
+
+#: Engine.py:196
+msgid "Pre-Installation script"
+msgstr "Pre-Installation script"
+
+#: Engine.py:215
+msgid "Post-Installation script"
+msgstr "Post-Installation script"
+
+#: Engine.py:267
+msgid "Running {}..."
+msgstr "Running {}..."
+
+#: Engine.py:303
+msgid "Exit code {}"
+msgstr "Exit code {}"
+
+#: Engine.py:306
+msgid "{} failed: {}"
+msgstr "{} failed: {}"
+
+#: Engine.py:310
+msgid "Task Warning"
+msgstr "Task Warning"
+
+#: Engine.py:311
+msgid ""
+"{} completed with errors:\n"
+"\n"
+"{}"
+msgstr ""
+"{} completed with errors:\n"
+"\n"
+"{}"
+
+#: Engine.py:329
+msgid "executable"
+msgstr "executable"
+
+#: Engine.py:337
+msgid "icon"
+msgstr "icon"
+
+#: Engine.py:353
+msgid "Deployed desktop file..."
+msgstr "Deployed desktop file..."
+
+#: Engine.py:367
+msgid "Deployed uninstaller desktop file..."
+msgstr "Deployed uninstaller desktop file..."
+
+#: Engine.py:383
+msgid "Deployed uninstaller..."
+msgstr "Deployed uninstaller..."
+
+#: Engine.py:400
+msgid "Deployed uninstaller icon..."
+msgstr "Deployed uninstaller icon..."
+
+#: Engine.py:408
+msgid "Failed to create {} symlink: source file does not exist."
+msgstr "Failed to create {} symlink: source file does not exist."
+
+#: Engine.py:417
+msgid "Created {} symlink..."
+msgstr "Created {} symlink..."
+
+#: Engine.py:420
+msgid "Failed to create {} symlink: {}"
+msgstr "Failed to create {} symlink: {}"
+
+#: Pages.py:15
+msgid ""
+"Please read the following License Agreement carefully. By installing you "
+"agree to these terms."
+msgstr ""
+"Please read the following License Agreement carefully. By installing you "
+"agree to these terms."
+
+#: Pages.py:17
+msgid "Please read the following information carefully."
+msgstr "Please read the following information carefully."
+
+#: Pages.py:47
+msgid "Welcome to the {} Setup Wizard"
+msgstr "Welcome to the {} Setup Wizard"
+
+#: Pages.py:50
+msgid ""
+"This wizard will guide you through the installation of\n"
+"{} version {} on your computer.\n"
+"\n"
+"Click Next to continue or Cancel to abort the installation."
+msgstr ""
+"This wizard will guide you through the installation of\n"
+"{} version {} on your computer.\n"
+"\n"
+"Click Next to continue or Cancel to abort the installation."
+
+#: Pages.py:60
+msgid "License Agreement"
+msgstr "License Agreement"
+
+#: Pages.py:66
+msgid "I accept the terms of the license agreement"
+msgstr "I accept the terms of the license agreement"
+
+#: Pages.py:78 Pages.py:86
+msgid "Information"
+msgstr "Information"
+
+#: Pages.py:98
+msgid "Additional Tasks"
+msgstr "Additional Tasks"
+
+#: Pages.py:99
+msgid "Select any additional tasks for {}.\n"
+msgstr "Select any additional tasks for {}.\n"
+
+#: Pages.py:133
+msgid "Ready to Install"
+msgstr "Ready to Install"
+
+#: Pages.py:134
+msgid ""
+"The wizard is ready to begin installing {}.\n"
+"\n"
+"Click Install to begin the installation or click Back to change any settings."
+msgstr ""
+"The wizard is ready to begin installing {}.\n"
+"\n"
+"Click Install to begin the installation or click Back to change any settings."
+
+#: Pages.py:164
+msgid ""
+"Installation Path:\n"
+"  {}\n"
+msgstr ""
+"Installation Path:\n"
+"  {}\n"
+
+#: Pages.py:165
+msgid ""
+"Executable Path:\n"
+"  {}\n"
+msgstr ""
+"Executable Path:\n"
+"  {}\n"
+
+#: Pages.py:168
+msgid ""
+"Icon Path:\n"
+"  {}\n"
+msgstr ""
+"Icon Path:\n"
+"  {}\n"
+
+#: Pages.py:171
+msgid ""
+"Desktop Path:\n"
+"  {}\n"
+msgstr ""
+"Desktop Path:\n"
+"  {}\n"
+
+#: Pages.py:175
+msgid ""
+"\n"
+"Additional Tasks:\n"
+"  {}"
+msgstr ""
+"\n"
+"Additional Tasks:\n"
+"  {}"
+
+#: Pages.py:186
+msgid "Installing {}..."
+msgstr "Installing {}..."
+
+#: Pages.py:193
+msgid "Preparing files..."
+msgstr "Preparing files..."
+
+#: Pages.py:213 Wizard.py:353
+msgid "Installation Cancelled"
+msgstr "Installation Cancelled"
+
+#: Pages.py:219
+msgid ""
+"Rolling back changes to restore your system.\n"
+"Please wait..."
+msgstr ""
+"Rolling back changes to restore your system.\n"
+"Please wait..."
+
+#: Pages.py:234
+msgid "Removing files..."
+msgstr "Removing files..."
+
+#: Wizard.py:26
+msgid "Tino Setup"
+msgstr "Tino Setup"
+
+#: Wizard.py:42
+msgid "Select Language"
+msgstr "Select Language"
+
+#: Wizard.py:52 Wizard.py:112
+msgid "OK"
+msgstr "OK"
+
+#: Wizard.py:107
+msgid "Yes"
+msgstr "Yes"
+
+#: Wizard.py:109
+msgid "No"
+msgstr "No"
+
+#: Wizard.py:152
+msgid "{} Setup"
+msgstr "{} Setup"
+
+#: Wizard.py:169
+msgid "{} by {}"
+msgstr "{} by {}"
+
+#: Wizard.py:172
+msgid "Back"
+msgstr "Back"
+
+#: Wizard.py:174 Wizard.py:299
+msgid "Next"
+msgstr "Next"
+
+#: Wizard.py:176
+msgid "Cancel"
+msgstr "Cancel"
+
+#: Wizard.py:235
+msgid "Extracting: {}"
+msgstr "Extracting: {}"
+
+#: Wizard.py:319
+msgid "Finish"
+msgstr "Finish"
+
+#: Wizard.py:324
+msgid "Install"
+msgstr "Install"
+
+#: Wizard.py:355
+msgid ""
+"{} installation was cancelled.\n"
+"\n"
+"Click Finish to close the wizard."
+msgstr ""
+"{} installation was cancelled.\n"
+"\n"
+"Click Finish to close the wizard."
+
+#: Wizard.py:358
+msgid "Installation Complete"
+msgstr "Installation Complete"
+
+#: Wizard.py:360
+msgid ""
+"{} has been successfully installed.\n"
+"\n"
+"Click Finish to close the wizard."
+msgstr ""
+"{} has been successfully installed.\n"
+"\n"
+"Click Finish to close the wizard."
+
+#: Wizard.py:414
+msgid "Archive file not found."
+msgstr "Archive file not found."
+
+#: Wizard.py:423
+msgid "Installation Error"
+msgstr "Installation Error"
+
+#: Wizard.py:424
+msgid ""
+"An error occurred during installation:\n"
+"\n"
+"{}"
+msgstr ""
+"An error occurred during installation:\n"
+"\n"
+"{}"
+
+#: Wizard.py:432
+msgid "Installation complete!"
+msgstr "Installation complete!"
+
+#: Wizard.py:441
+msgid "Rolling Back"
+msgstr "Rolling Back"
+
+#: Wizard.py:442
+msgid "Please wait while the rollback finishes."
+msgstr "Please wait while the rollback finishes."
+
+#: Wizard.py:450
+msgid "Exit Setup"
+msgstr "Exit Setup"
+
+#: Wizard.py:451
+msgid ""
+"Are you sure you want to cancel the installation?\n"
+"\n"
+"Any changes made so far will be lost."
+msgstr ""
+"Are you sure you want to cancel the installation?\n"
+"\n"
+"Any changes made so far will be lost."

@@ -1,0 +1,216 @@
+# Translation file for TinoUninstaller
+# Copyright (C) 2026 Motagamwala Taha Arif Ali
+# This file is distributed under the same license as the TinoUninstaller package.
+# Motagamwala Taha Arif Ali <tahaar5321@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TinoUninstaller 1.0\n"
+"POT-Creation-Date: 2026-06-14 16:15+0000\n"
+"PO-Revision-Date: 2026-05-29 06:45+0000\n"
+"Last-Translator: Motagamwala Taha Arif Ali <tahaar5321@gmail.com>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Pages.py:17
+msgid "Welcome to the {} Uninstaller"
+msgstr "Welcome to the {} Uninstaller"
+
+#: Pages.py:19
+msgid ""
+"This uninstaller will guide you through the removal of\n"
+"{} and its data from your computer.\n"
+"\n"
+"Click Uninstall to continue or Cancel to abort the uninstallation."
+msgstr ""
+"This uninstaller will guide you through the removal of\n"
+"{} and its data from your computer.\n"
+"\n"
+"Click Uninstall to continue or Cancel to abort the uninstallation."
+
+#: Pages.py:30
+msgid "Uninstalling {}..."
+msgstr "Uninstalling {}..."
+
+#: Pages.py:37
+msgid "Preparing..."
+msgstr "Preparing..."
+
+#: Wizard.py:50
+msgid "Yes"
+msgstr "Yes"
+
+#: Wizard.py:52
+msgid "No"
+msgstr "No"
+
+#: Wizard.py:55
+msgid "OK"
+msgstr "OK"
+
+#: Wizard.py:94
+msgid "{} Uninstaller"
+msgstr "{} Uninstaller"
+
+#: Wizard.py:111
+msgid "{} by {}"
+msgstr "{} by {}"
+
+#: Wizard.py:114 Wizard.py:178
+msgid "Next"
+msgstr "Next"
+
+#: Wizard.py:116
+msgid "Cancel"
+msgstr "Cancel"
+
+#: Wizard.py:190
+msgid "Finish"
+msgstr "Finish"
+
+#: Wizard.py:192
+msgid "Uninstall"
+msgstr "Uninstall"
+
+#: Wizard.py:198
+msgid "Uninstallation Failed"
+msgstr "Uninstallation Failed"
+
+#: Wizard.py:200
+msgid ""
+"An error occurred during the uninstallation of {}.\n"
+"\n"
+"Some files may have already been removed.\n"
+"Click Finish to close the uninstaller."
+msgstr ""
+"An error occurred during the uninstallation of {}.\n"
+"\n"
+"Some files may have already been removed.\n"
+"Click Finish to close the uninstaller."
+
+#: Wizard.py:205
+msgid "Uninstallation Complete"
+msgstr "Uninstallation Complete"
+
+#: Wizard.py:207
+msgid ""
+"{} has been successfully uninstalled.\n"
+"\n"
+"Click Finish to close the uninstaller."
+msgstr ""
+"{} has been successfully uninstalled.\n"
+"\n"
+"Click Finish to close the uninstaller."
+
+#: Wizard.py:225
+msgid "Confirm Uninstallation"
+msgstr "Confirm Uninstallation"
+
+#: Wizard.py:226
+msgid ""
+"Are you sure you want to uninstall {}?\n"
+"\n"
+"All files and data associated with this application will be removed."
+msgstr ""
+"Are you sure you want to uninstall {}?\n"
+"\n"
+"All files and data associated with this application will be removed."
+
+#: Wizard.py:239
+msgid "Starting uninstallation..."
+msgstr "Starting uninstallation..."
+
+#: Wizard.py:246
+msgid "Script file not found: {}"
+msgstr "Script file not found: {}"
+
+#: Wizard.py:263
+msgid "Script returned non-zero exit code {}"
+msgstr "Script returned non-zero exit code {}"
+
+#: Wizard.py:280
+msgid "Running pre-uninstallation script..."
+msgstr "Running pre-uninstallation script..."
+
+#: Wizard.py:286
+msgid "Removing executable..."
+msgstr "Removing executable..."
+
+#: Wizard.py:294
+msgid "Removing icon..."
+msgstr "Removing icon..."
+
+#: Wizard.py:302
+msgid "Removing desktop shortcut..."
+msgstr "Removing desktop shortcut..."
+
+#: Wizard.py:310
+msgid "Removing uninstaller desktop shortcut..."
+msgstr "Removing uninstaller desktop shortcut..."
+
+#: Wizard.py:318
+msgid "Removing uninstaller icon..."
+msgstr "Removing uninstaller icon..."
+
+#: Wizard.py:326
+msgid "Removing installation directory..."
+msgstr "Removing installation directory..."
+
+#: Wizard.py:333
+msgid "Removing uninstaller executable..."
+msgstr "Removing uninstaller executable..."
+
+#: Wizard.py:346
+msgid "Running post-uninstallation script..."
+msgstr "Running post-uninstallation script..."
+
+#: Wizard.py:365
+msgid ""
+"Script execution failed during uninstallation.\n"
+"\n"
+"The uninstallation has been aborted.\n"
+"\n"
+"Details:\n"
+"{}"
+msgstr ""
+"Script execution failed during uninstallation.\n"
+"\n"
+"The uninstallation has been aborted.\n"
+"\n"
+"Details:\n"
+"{}"
+
+#: Wizard.py:374
+msgid "Uninstallation complete!"
+msgstr "Uninstallation complete!"
+
+#: Wizard.py:387
+msgid ""
+"Permission denied during uninstallation.\n"
+"\n"
+"Some files may have already been removed.\n"
+"\n"
+"Details:\n"
+"{}"
+msgstr ""
+"Permission denied during uninstallation.\n"
+"\n"
+"Some files may have already been removed.\n"
+"\n"
+"Details:\n"
+"{}"
+
+#: Wizard.py:390
+msgid "Uninstallation Error"
+msgstr "Uninstallation Error"
+
+#: Wizard.py:396
+msgid "Uninstallation in Progress"
+msgstr "Uninstallation in Progress"
+
+#: Wizard.py:397
+msgid "The uninstallation process has started and cannot be cancelled."
+msgstr "The uninstallation process has started and cannot be cancelled."

@@ -1,0 +1,374 @@
+# Translation file for TinoInstaller
+# Copyright (C) 2026 Motagamwala Taha Arif Ali
+# This file is distributed under the same license as the TinoInstaller package.
+# Motagamwala Taha Arif Ali <tahaar5321@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TinoInstaller 1.0\n"
+"POT-Creation-Date: 2026-06-14 16:04+0000\n"
+"PO-Revision-Date: 2026-05-29 12:15+0000\n"
+"Last-Translator: Motagamwala Taha Arif Ali <tahaar5321@gmail.com>\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Engine.py:73
+msgid ""
+"You do not have permission to write to {}.\n"
+"\n"
+"Please run the installer as root or choose a different location."
+msgstr ""
+"您没有权限写入 {}。\n"
+"\n"
+"请以 root 身份运行安装程序或选择其他位置。"
+
+#: Engine.py:139
+msgid "Removing executable symlink..."
+msgstr "正在删除可执行文件符号链接..."
+
+#: Engine.py:145
+msgid "Removing icon symlink..."
+msgstr "正在删除图标符号链接..."
+
+#: Engine.py:151
+msgid "Removing desktop file..."
+msgstr "正在删除桌面文件..."
+
+#: Engine.py:155
+msgid "Removing uninstaller desktop file..."
+msgstr "正在移除卸载程序桌面文件..."
+
+#: Engine.py:161
+msgid "Removing uninstaller..."
+msgstr "正在移除卸载程序..."
+
+#: Engine.py:166
+msgid "Removing uninstaller icon..."
+msgstr "正在移除卸载程序图标..."
+
+#: Engine.py:171
+msgid "Cleaning up extracted files..."
+msgstr "正在清理已提取的文件..."
+
+#: Engine.py:175
+msgid "Removing installation directory..."
+msgstr "正在删除安装目录..."
+
+#: Engine.py:196
+msgid "Pre-Installation script"
+msgstr "安装前脚本"
+
+#: Engine.py:215
+msgid "Post-Installation script"
+msgstr "安装后脚本"
+
+#: Engine.py:267
+msgid "Running {}..."
+msgstr "正在运行 {}..."
+
+#: Engine.py:303
+msgid "Exit code {}"
+msgstr "退出代码 {}"
+
+#: Engine.py:306
+msgid "{} failed: {}"
+msgstr "{} 失败：{}"
+
+#: Engine.py:310
+msgid "Task Warning"
+msgstr "任务警告"
+
+#: Engine.py:311
+msgid ""
+"{} completed with errors:\n"
+"\n"
+"{}"
+msgstr ""
+"{} 已完成，但出现错误：\n"
+"\n"
+"{}"
+
+#: Engine.py:329
+msgid "executable"
+msgstr "可执行文件"
+
+#: Engine.py:337
+msgid "icon"
+msgstr "图标"
+
+#: Engine.py:353
+msgid "Deployed desktop file..."
+msgstr "已部署桌面文件..."
+
+#: Engine.py:367
+msgid "Deployed uninstaller desktop file..."
+msgstr "已部署卸载程序桌面文件..."
+
+#: Engine.py:383
+msgid "Deployed uninstaller..."
+msgstr "已部署卸载程序..."
+
+#: Engine.py:400
+msgid "Deployed uninstaller icon..."
+msgstr "已部署卸载程序图标..."
+
+#: Engine.py:408
+msgid "Failed to create {} symlink: source file does not exist."
+msgstr "无法创建 {} 符号链接：源文件不存在。"
+
+#: Engine.py:417
+msgid "Created {} symlink..."
+msgstr "已创建 {} 符号链接..."
+
+#: Engine.py:420
+msgid "Failed to create {} symlink: {}"
+msgstr "无法创建 {} 符号链接：{}"
+
+#: Pages.py:15
+msgid ""
+"Please read the following License Agreement carefully. By installing you "
+"agree to these terms."
+msgstr "请仔细阅读以下许可协议。安装即表示您同意这些条款。"
+
+#: Pages.py:17
+msgid "Please read the following information carefully."
+msgstr "请仔细阅读以下信息。"
+
+#: Pages.py:47
+msgid "Welcome to the {} Setup Wizard"
+msgstr "欢迎使用 {} 安装向导"
+
+#: Pages.py:50
+msgid ""
+"This wizard will guide you through the installation of\n"
+"{} version {} on your computer.\n"
+"\n"
+"Click Next to continue or Cancel to abort the installation."
+msgstr ""
+"此向导将引导您在计算机上安装\n"
+"{} 版本 {}。\n"
+"\n"
+"点击“下一步”继续，或点击“取消”中止安装。"
+
+#: Pages.py:60
+msgid "License Agreement"
+msgstr "许可协议"
+
+#: Pages.py:66
+msgid "I accept the terms of the license agreement"
+msgstr "我接受许可协议的条款"
+
+#: Pages.py:78 Pages.py:86
+msgid "Information"
+msgstr "信息"
+
+#: Pages.py:98
+msgid "Additional Tasks"
+msgstr "附加任务"
+
+#: Pages.py:99
+msgid "Select any additional tasks for {}.\n"
+msgstr "为 {} 选择任何附加任务。\n"
+
+#: Pages.py:133
+msgid "Ready to Install"
+msgstr "准备安装"
+
+#: Pages.py:134
+msgid ""
+"The wizard is ready to begin installing {}.\n"
+"\n"
+"Click Install to begin the installation or click Back to change any settings."
+msgstr ""
+"安装向导已准备好开始安装 {}。\n"
+"\n"
+"点击“安装”开始安装，或点击“返回”更改设置。"
+
+#: Pages.py:164
+msgid ""
+"Installation Path:\n"
+"  {}\n"
+msgstr ""
+"安装路径：\n"
+"  {}\n"
+
+#: Pages.py:165
+msgid ""
+"Executable Path:\n"
+"  {}\n"
+msgstr ""
+"可执行文件路径：\n"
+"  {}\n"
+
+#: Pages.py:168
+msgid ""
+"Icon Path:\n"
+"  {}\n"
+msgstr ""
+"图标路径：\n"
+"  {}\n"
+
+#: Pages.py:171
+msgid ""
+"Desktop Path:\n"
+"  {}\n"
+msgstr ""
+"桌面路径：\n"
+"  {}\n"
+
+#: Pages.py:175
+msgid ""
+"\n"
+"Additional Tasks:\n"
+"  {}"
+msgstr ""
+"\n"
+"附加任务：\n"
+"  {}"
+
+#: Pages.py:186
+msgid "Installing {}..."
+msgstr "正在安装 {}..."
+
+#: Pages.py:193
+msgid "Preparing files..."
+msgstr "正在准备文件..."
+
+#: Pages.py:213 Wizard.py:353
+msgid "Installation Cancelled"
+msgstr "安装已取消"
+
+#: Pages.py:219
+msgid ""
+"Rolling back changes to restore your system.\n"
+"Please wait..."
+msgstr ""
+"正在回滚更改以恢复您的系统。\n"
+"请稍候..."
+
+#: Pages.py:234
+msgid "Removing files..."
+msgstr "正在删除文件..."
+
+#: Wizard.py:26
+msgid "Tino Setup"
+msgstr "Tino 安装程序"
+
+#: Wizard.py:42
+msgid "Select Language"
+msgstr "选择语言"
+
+#: Wizard.py:52 Wizard.py:112
+msgid "OK"
+msgstr "确定"
+
+#: Wizard.py:107
+msgid "Yes"
+msgstr "是"
+
+#: Wizard.py:109
+msgid "No"
+msgstr "否"
+
+#: Wizard.py:152
+msgid "{} Setup"
+msgstr "{} 安装程序"
+
+#: Wizard.py:169
+msgid "{} by {}"
+msgstr "{} 作者：{}"
+
+#: Wizard.py:172
+msgid "Back"
+msgstr "返回"
+
+#: Wizard.py:174 Wizard.py:299
+msgid "Next"
+msgstr "下一步"
+
+#: Wizard.py:176
+msgid "Cancel"
+msgstr "取消"
+
+#: Wizard.py:235
+msgid "Extracting: {}"
+msgstr "正在提取：{}"
+
+#: Wizard.py:319
+msgid "Finish"
+msgstr "完成"
+
+#: Wizard.py:324
+msgid "Install"
+msgstr "安装"
+
+#: Wizard.py:355
+msgid ""
+"{} installation was cancelled.\n"
+"\n"
+"Click Finish to close the wizard."
+msgstr ""
+"{} 的安装已被取消。\n"
+"\n"
+"点击“完成”以关闭向导。"
+
+#: Wizard.py:358
+msgid "Installation Complete"
+msgstr "安装完成"
+
+#: Wizard.py:360
+msgid ""
+"{} has been successfully installed.\n"
+"\n"
+"Click Finish to close the wizard."
+msgstr ""
+"{} 已成功安装。\n"
+"\n"
+"点击“完成”以关闭向导。"
+
+#: Wizard.py:414
+msgid "Archive file not found."
+msgstr "未找到存档文件。"
+
+#: Wizard.py:423
+msgid "Installation Error"
+msgstr "安装错误"
+
+#: Wizard.py:424
+msgid ""
+"An error occurred during installation:\n"
+"\n"
+"{}"
+msgstr ""
+"安装过程中发生错误：\n"
+"\n"
+"{}"
+
+#: Wizard.py:432
+msgid "Installation complete!"
+msgstr "安装完成！"
+
+#: Wizard.py:441
+msgid "Rolling Back"
+msgstr "正在回滚"
+
+#: Wizard.py:442
+msgid "Please wait while the rollback finishes."
+msgstr "正在完成回滚，请稍候。"
+
+#: Wizard.py:450
+msgid "Exit Setup"
+msgstr "退出安装程序"
+
+#: Wizard.py:451
+msgid ""
+"Are you sure you want to cancel the installation?\n"
+"\n"
+"Any changes made so far will be lost."
+msgstr ""
+"您确定要取消安装吗？\n"
+"\n"
+"到目前为止所做的任何更改都将丢失。"
