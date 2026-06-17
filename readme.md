@@ -19,9 +19,6 @@
 ### 📋 Contribution
 Pull requests and Issues are welcome!.
 
-**[Github](https://github.com/Tino-Setup/Locale)**
-
-
 ### 📄 License
 
 GNU GPL-3.0 License
